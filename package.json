@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "applicant_homepage.js",
+  "scripts": {
+  "test": "jest",
+  "test:coverage": "jest --coverage --passWithNoTests"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavhila-mashudu/OportuNet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavhila-mashudu/OportuNet/issues"
+  },
+  "homepage": "https://github.com/mavhila-mashudu/OportuNet#readme",
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "jest-environment-jsdom": "^30.3.0"
+  }
+}
